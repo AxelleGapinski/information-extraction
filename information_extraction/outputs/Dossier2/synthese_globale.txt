@@ -1,0 +1,24 @@
+[ Synthèse générale du bien ]
+
+Informations sur le bien
+- Type de bien : Bureaux
+- Adresse : 336 rue St-Honoré, 75008 PARIS
+- Localisation : 7ème étage
+- Superficie : N/C
+- Date de construction: 1960/1970
+- Propriétaire: SAS BEAUMARLY
+
+Points critiques principaux
+- Conduits (risque: faible) : Présence d'amiante dans les conduits des toilettes du 7ème étage
+- Conduits et accessoires (risque: faible) : Présence de matériaux contenant de l'amiante dans les conduits de fluide, vide-ordures, et accessoires de couverture.
+- Ventilation (risque: moyen) : Ventilation insuffisante, recommandation d'installation d'une VMR
+- Inondation (risque: moyen) : Le bien est situé dans une zone bleue du PPRn Inondation, révisé le 19/04/2007. Des prescriptions de travaux existent.
+- Pollution des sols (risque: faible) : L'immeuble est situé dans un Secteur d'Information sur les Sols (SIS), approuvé le 13/01/2020.
+- Infestation de termites (risque: faible) : Absence d'indices d'infestation de termites dans toutes les pièces visitées
+
+Évaluation des risques
+Risque global: moyen
+
+Recommandations
+- Faire une expertise pour : Ventilation
+- Faire une expertise pour : Inondation
