@@ -1,0 +1,38 @@
+[ Synthèse générale du bien ]
+
+Informations sur le bien
+- Type de bien : Appartement
+- Adresse : 5 rue Réaumur, 75003 PARIS
+- Localisation : 6ème étage porte Gauche / Bât cour
+- Superficie : 33.62 m²
+- Date de construction: N/C
+- Propriétaire: Mr KORMAN C/O Cabinet GLF
+
+Points critiques principaux
+- Présence d'amiante (risque: faible) : Aucun matériau ou produit contenant de l'amiante n'a été repéré.
+- Performance énergétique (risque: élevé) : Logement extrêmement peu performant avec une consommation de 286 kWh/m²/an et des émissions de 9 kg CO2/m²/an.
+- Isolation (risque: moyen) : Isolation insuffisante des murs et de la toiture.
+- Confort d'été (risque: moyen) : Confort d'été insuffisant, recommandations pour isoler la toiture et équiper les fenêtres de volets extérieurs.
+- Dispositif de protection différentiel (risque: élevé) : Absence ou mauvais fonctionnement du dispositif de protection différentiel à l'origine de l'installation.
+- Prise de terre (risque: élevé) : Au moins un socle de prise de courant comporte une broche de terre non reliée à la terre.
+- Matériels électriques (risque: élevé) : L'enveloppe d'au moins un matériel est manquante ou détériorée.
+- Présence de plomb (risque: élevé) : Au moins une unité de diagnostic contenant du plomb au-dessus du seuil réglementaire. Revêtements dégradés (classe 3) nécessitant des travaux pour supprimer l'exposition au plomb.
+- Entretien des revêtements (risque: moyen) : Présence de revêtements non dégradés ou en état d'usage contenant du plomb (classe 1 et 2). Nécessité de veiller à l'entretien pour éviter leur dégradation future.
+- Radon (risque: faible) : Niveau 1
+- Séisme (risque: très faible) : Niveau 1
+- Sols argileux (risque: faible) : Faible ou Nul
+- Inondation (risque: élevé) : L'immeuble est situé dans le périmètre d'un PPRN approuvé lié à l'inondation
+
+Évaluation des risques
+Risque global: élevé
+
+Recommandations
+- Faire une expertise pour : Performance énergétique
+- Faire une expertise pour : Isolation
+- Faire une expertise pour : Confort d'été
+- Faire une expertise pour : Dispositif de protection différentiel
+- Faire une expertise pour : Prise de terre
+- Faire une expertise pour : Matériels électriques
+- Faire une expertise pour : Présence de plomb
+- Faire une expertise pour : Entretien des revêtements
+- Faire une expertise pour : Inondation

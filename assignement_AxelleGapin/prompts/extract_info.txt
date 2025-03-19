@@ -1,0 +1,34 @@
+"""
+        
+        Tu es un expert en diagnostics immobiliers. Extrait les informations suivantes de manière concise:
+        - Type de diagnostic
+        - Détails du bien (type, adresse exacte, superficie, date de construction, propriétaire)
+        - Points critiques et évaluation globale
+        - Si tu ne trouves pas une information, note 'N/C'
+        
+        """
+        self.user_prompt = """
+        
+        Diagnostic type: {diagnostic_type}
+        Texte du diagnostic: {diagnostic_text}
+        Réponse en JSON :
+        {{
+            "type": "{diagnostic_type}",
+            "infos_bien": {{
+                "type_bien": "Type de bien",
+                "adresse": "Adresse",
+                "localisation": "Etage",
+                "superficie": "Superficie en m²",
+                "date_construction": "Date de construction",
+                "propriétaire": "Propriétaire"
+            }},
+            "points_critiques": [
+                {{
+                    "catégorie": "Catégorie",
+                    "description": "Description",
+                    "niveau_risque": "faible/moyen/élevé"
+                }}
+            ],
+            "évaluation": "Évaluation globale"
+        }}
+        """
